@@ -1,0 +1,6 @@
+.nuxt/
+assets/
+static/
+
+node_modules/
+dist/
